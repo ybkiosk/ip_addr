@@ -3,3 +3,7 @@ Sun Nov 29 17:21:26 CST 2015
           inet6 addr: ::1/128 Scope:Host
           inet addr:192.168.1.116  Bcast:192.168.1.255  Mask:255.255.255.0
           inet6 addr: fe80::6ead:f8ff:fe1d:2211/64 Scope:Link
+Sun Nov 29 17:25:58 CST 2015
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          inet6 addr: fe80::6ead:f8ff:fe1d:2211/64 Scope:Link
