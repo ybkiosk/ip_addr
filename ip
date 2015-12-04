@@ -419,3 +419,8 @@ Fri Dec  4 12:42:01 CST 2015
           inet6 addr: ::1/128 Scope:Host
           inet addr:10.180.11.211  Bcast:10.180.255.255  Mask:255.255.0.0
           inet6 addr: fe80::6ead:f8ff:fe1d:2211/64 Scope:Link
+Fri Dec  4 12:43:01 CST 2015
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          inet addr:10.180.11.211  Bcast:10.180.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::6ead:f8ff:fe1d:2211/64 Scope:Link
