@@ -99,3 +99,8 @@ Thu Feb 18 08:51:19 CST 2016
           inet6 addr: ::1/128 Scope:Host
           inet addr:10.180.10.152  Bcast:10.180.255.255  Mask:255.255.0.0
           inet6 addr: fe80::6ead:f8ff:fe1d:2211/64 Scope:Link
+Thu Feb 18 09:00:01 CST 2016
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          inet addr:10.180.10.152  Bcast:10.180.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::6ead:f8ff:fe1d:2211/64 Scope:Link
